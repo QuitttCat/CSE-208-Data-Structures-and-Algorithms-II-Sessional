@@ -1,0 +1,73 @@
+answer: 5746
+Used Weight: 851
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+
+
+Rounded Instance with Eps: 0.02
+Theta: 0.1078048780487805
+Answer of reduced instance: 53300
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+Answer of original instance (rounded up): 5746
+Used Weight: 851
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.0500000000000000
+Theta: 0.2695121951219512
+Answer of reduced instance: 21320
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+Answer of original instance (rounded up): 5746
+Used Weight: 851
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.5000000000000000
+Theta: 2.6951219512195124
+Answer of reduced instance: 2132
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 40 39 38 37 34 31 27 26 23 22 18 17 16 
+Answer of original instance (rounded up): 5738
+Used Weight: 845
+Ratio: 1.0013942140118508
+
+
+Rounded Instance with Eps: 0.3000000000000000
+Theta: 1.6170731707317072
+Answer of reduced instance: 3562
+Answer of reduced instance multiplied by theta: 5760.014634146341
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+Answer of original instance (rounded up): 5746
+Used Weight: 851
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.2000000000000000
+Theta: 1.0780487804878049
+Answer of reduced instance: 5330
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 40 39 38 37 34 31 27 26 23 22 18 17 16 
+Answer of original instance (rounded up): 5738
+Used Weight: 845
+Ratio: 1.0013942140118508
+
+
+Rounded Instance with Eps: 0.1000000000000000
+Theta: 0.5390243902439025
+Answer of reduced instance: 10660
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+Answer of original instance (rounded up): 5746
+Used Weight: 851
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.0500000000000000
+Theta: 0.2695121951219512
+Answer of reduced instance: 21320
+Answer of reduced instance multiplied by theta: 5746.000000000000
+Indices: 38 37 36 35 32 31 30 28 24 23 22 14 10 
+Answer of original instance (rounded up): 5746
+Used Weight: 851
+Ratio: 1.0000000000000000

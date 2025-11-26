@@ -1,0 +1,73 @@
+answer: 12699
+Used Weight: 663
+Indices: 37 30 28 24 22 21 19 14 4 
+
+
+Rounded Instance with Eps: 0.02
+Theta: 0.3359523809523809
+Answer of reduced instance: 37800
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 37 30 28 24 22 21 19 14 4 
+Answer of original instance (rounded up): 12699
+Used Weight: 663
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.0500000000000000
+Theta: 0.8398809523809524
+Answer of reduced instance: 15120
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 37 30 28 24 22 21 19 14 4 
+Answer of original instance (rounded up): 12699
+Used Weight: 663
+Ratio: 1.0000000000000000
+
+
+Rounded Instance with Eps: 0.5000000000000000
+Theta: 8.3988095238095237
+Answer of reduced instance: 1512
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 40 38 37 34 27 22 14 12 9 
+Answer of original instance (rounded up): 12679
+Used Weight: 648
+Ratio: 1.0015774114677813
+
+
+Rounded Instance with Eps: 0.3000000000000000
+Theta: 5.0392857142857146
+Answer of reduced instance: 2520
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 40 38 37 34 27 22 14 12 9 
+Answer of original instance (rounded up): 12679
+Used Weight: 648
+Ratio: 1.0015774114677813
+
+
+Rounded Instance with Eps: 0.2000000000000000
+Theta: 3.3595238095238096
+Answer of reduced instance: 3780
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 38 37 34 31 27 23 22 16 14 
+Answer of original instance (rounded up): 12685
+Used Weight: 651
+Ratio: 1.0011036657469452
+
+
+Rounded Instance with Eps: 0.1000000000000000
+Theta: 1.6797619047619048
+Answer of reduced instance: 7560
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 37 32 31 30 24 22 21 14 4 
+Answer of original instance (rounded up): 12697
+Used Weight: 660
+Ratio: 1.0001575175238244
+
+
+Rounded Instance with Eps: 0.0500000000000000
+Theta: 0.8398809523809524
+Answer of reduced instance: 15120
+Answer of reduced instance multiplied by theta: 12699.000000000000
+Indices: 37 30 28 24 22 21 19 14 4 
+Answer of original instance (rounded up): 12699
+Used Weight: 663
+Ratio: 1.0000000000000000

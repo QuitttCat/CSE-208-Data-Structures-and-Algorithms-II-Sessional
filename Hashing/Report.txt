@@ -1,0 +1,57 @@
+
+
+N' = 5000
+
+ Collision Resolution |           Hash1          |            Hash2         |
+                      ------------------------------------------------------------
+       Method          |   Collisions|   Avg Probes|   Collisions|   Avg Probes|
+----------------------------------------------------------------------------------
+separate chaining      |         3195|       1.2060|         3062|       1.1010|
+double hashing         |         2528|       5.7390|         2449|       6.4300|
+custom probing         |         2526|       9.8530|         2490|       9.7850|
+
+
+N' = 10000
+
+ Collision Resolution |           Hash1          |            Hash2         |
+                      ------------------------------------------------------------
+       Method          |   Collisions|   Avg Probes|   Collisions|   Avg Probes|
+----------------------------------------------------------------------------------
+separate chaining      |         4657|       1.0590|         4806|       1.0670|
+double hashing         |         4966|       5.8350|         5053|       9.5630|
+custom probing         |         5072|       8.2940|         4995|       7.5070|
+
+
+N' = 200000
+
+ Collision Resolution |           Hash1          |            Hash2         |
+                      ------------------------------------------------------------
+       Method          |   Collisions|   Avg Probes|   Collisions|   Avg Probes|
+----------------------------------------------------------------------------------
+separate chaining      |          260|       1.0330|          252|       1.0230|
+double hashing         |          263|       1.0190|          255|       1.0220|
+custom probing         |          265|       1.0390|          257|       1.0230|
+
+
+ Uniqueness of hash1 when load factor 0.5000 : 78.8100%
+Uniqueness of hash2 when load factor 0.5000 : 78.4100%
+
+
+ Uniqueness of hash1 when load factor 0.6667 : 73.3100%
+Uniqueness of hash2 when load factor 0.6667 : 73.4200%
+
+
+ Uniqueness of hash1 when load factor 0.8333 : 67.7800%
+Uniqueness of hash2 when load factor 0.8333 : 67.5400%
+
+
+ Uniqueness of hash1 when load factor 1.0000 : 63.3900%
+Uniqueness of hash2 when load factor 1.0000 : 62.7700%
+
+
+ Uniqueness of hash1 when load factor 1.2500 : 56.7900%
+Uniqueness of hash2 when load factor 1.2500 : 56.8500%
+
+
+ Uniqueness of hash1 when load factor 2.0000 : 43.5500%
+Uniqueness of hash2 when load factor 2.0000 : 43.2600%
